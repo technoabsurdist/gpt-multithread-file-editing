@@ -1,0 +1,14 @@
+[
+    {
+        "description": "A physical good that can be moved or touched. Also known as tangible personal property.",
+        "id": "taxCategory_0e5c307d66c644cc87335be9316fd9ef",
+        "legacyId": "txcd_99999999",
+        "name": "General - Tangible Goods"
+    },
+    {
+        "description": "Other services.",
+        "id": "taxCategory_6cd7bbb194404bf0abf273312cdfa656",
+        "legacyId": "txcd_20030000",
+        "name": "General - Services"
+    }
+]
