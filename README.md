@@ -1,5 +1,3 @@
-Sure, here's a basic README file for this project:
-
 ---
 
 # OpenAI GPT-3 Concurrent JSON Processor
